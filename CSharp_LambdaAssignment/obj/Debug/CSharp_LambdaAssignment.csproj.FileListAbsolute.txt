@@ -1,0 +1,7 @@
+C:\Users\mark.hamner\source\repos\CSharp_LambdaAssignment\CSharp_LambdaAssignment\bin\Debug\CSharp_LambdaAssignment.exe.config
+C:\Users\mark.hamner\source\repos\CSharp_LambdaAssignment\CSharp_LambdaAssignment\bin\Debug\CSharp_LambdaAssignment.exe
+C:\Users\mark.hamner\source\repos\CSharp_LambdaAssignment\CSharp_LambdaAssignment\bin\Debug\CSharp_LambdaAssignment.pdb
+C:\Users\mark.hamner\source\repos\CSharp_LambdaAssignment\CSharp_LambdaAssignment\obj\Debug\CSharp_LambdaAssignment.csprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\CSharp_LambdaAssignment\CSharp_LambdaAssignment\obj\Debug\CSharp_LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\CSharp_LambdaAssignment\CSharp_LambdaAssignment\obj\Debug\CSharp_LambdaAssignment.exe
+C:\Users\mark.hamner\source\repos\CSharp_LambdaAssignment\CSharp_LambdaAssignment\obj\Debug\CSharp_LambdaAssignment.pdb
